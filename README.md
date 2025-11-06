@@ -1,1 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/hgNAtOO3)
+Hi.
+
+As I have notified Tenney and Akhil about via email, I will not be able to complete the P2 deliverable, due personal health and family problems. I am truly sorry for this, and of course accepts the zero point grading that follows. I will continue working towards the final project deliverable P3, under Tenney's guidance, until I am told otherwise.
+
+Best regards,
+Christian
